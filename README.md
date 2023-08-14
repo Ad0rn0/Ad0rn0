@@ -21,18 +21,19 @@ Hi, you can call me Adorno. I'm a programming student who is passionate about le
 * Play video games;
 * Go to the gym.
 
-## **Social**
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/thiago-adorno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thiago-adorno)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/ad0rn0.prw/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ad0rn0.prw/)
+## Technologies I Embrace
 
-## **Known Languagens**
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Exploring-blue?style=for-the-badge&logo=python)
+![ADVPL](https://img.shields.io/badge/Advpl-Diving%20In-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-perfecting-yellow?style=for-the-badge)
+![English](https://img.shields.io/badge/English-perfecting-red?style=for-the-badge)
 
-![ADVPL](https://img.shields.io/badge/Advpl-000?style=for-the-badge&logo=Advpl)
+![Power BI](https://img.shields.io/badge/Power%20BI-Learning-white?style=for-the-badge)  
+![Machine Learning ](https://img.shields.io/badge/Machine%20Learning-Learning-white?style=for-the-badge)   
+![Deep Learning ](https://img.shields.io/badge/Deep%20Learning-Learning-white?style=for-the-badge)
 
-## **Learning**
-Power BI  
-Machine Learning  
-Deep Learning  
