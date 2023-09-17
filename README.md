@@ -29,11 +29,17 @@ Hi, you can call me Adorno. I'm a programming student who is passionate about le
 ## Technologies I Embrace
 
 ![Python](https://img.shields.io/badge/Python-Exploring-blue?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-Exploring-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Exploring-blue?style=for-the-badge&logo=css3)
 ![ADVPL](https://img.shields.io/badge/Advpl-Diving%20In-black?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-perfecting-yellow?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-perfecting-red?style=for-the-badge)
 
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Learning-white?style=for-the-badge)  
 ![Machine Learning ](https://img.shields.io/badge/Machine%20Learning-Learning-white?style=for-the-badge)   
-![Deep Learning ](https://img.shields.io/badge/Deep%20Learning-Learning-white?style=for-the-badge)
+![Deep Learning ](https://img.shields.io/badge/Deep%20Learning-Learning-white?style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript)  
+![Angular](https://img.shields.io/badge/Angular-Learning-red?style=for-the-badge&logo=angular)
+
 
