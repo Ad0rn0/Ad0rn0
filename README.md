@@ -36,10 +36,6 @@ Hi, you can call me Adorno. I'm a programming student who is passionate about le
 ![English](https://img.shields.io/badge/English-perfecting-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Learning-white?style=for-the-badge)  
-![Machine Learning ](https://img.shields.io/badge/Machine%20Learning-Learning-white?style=for-the-badge)   
-![Deep Learning ](https://img.shields.io/badge/Deep%20Learning-Learning-white?style=for-the-badge)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript)  
 ![Angular](https://img.shields.io/badge/Angular-Learning-red?style=for-the-badge&logo=angular)
 
